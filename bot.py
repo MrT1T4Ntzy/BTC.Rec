@@ -2,8 +2,8 @@
 ##################################################
 # Script Bot Peghasil BTC / BITCOIN              #
 # Code open source in https://github.com/Musk-ID #
-# Author : Kingtebe                              #
-# Github : https://github.com/Musk-ID            #
+# Author : Who Am I                           #
+# Github : https://github.com/WhoAmI            #
 ##################################################
 import os ,sys ,re ,json ,random ,logging ,subprocess
 try:
